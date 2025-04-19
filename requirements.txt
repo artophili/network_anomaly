@@ -5,3 +5,4 @@ seaborn
 scikit-learn
 huggingface_hub
 joblib
+shap

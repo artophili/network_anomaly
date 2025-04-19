@@ -1,0 +1,9 @@
+You are a professional researcher. So just help me in summarizing the literature.I have excel sheet with following columns I want to summarize this page and find the key insights from it according to excel columns.
+Don't generate anything just provide the key findings of the paper. Don't generate anything on your own just follow the context of paper by reading it. Follow the excel sheet strictly
+Don't give the objective in points I have to add it in excel sheet
+Columns of the excel are Cite Environment Year Objective Dataset Algorithm used Important feature Preprocessing technique Hyperparameters metrics used Accuracy General observation Next steps and future direction Accurate model among all Facts Follow this excel format
+Remember here the environment can be SDN, IOT or cloud or something like you have provided now
+Don't provide the summarization in point =. Let it be comma separated
+Just read and give the same statements form the paper.
+Important Feature of dataset not the paper
+Just provide what is written in the paper and don't generate anything. If any of the excel point is not there in paper then leave it blank. It is ok. But don't generate anything
